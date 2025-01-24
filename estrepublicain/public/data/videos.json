@@ -8,7 +8,7 @@
     "City": "Beaucourt",
     "Department": "Territoire de Belfort",
     "Region": "Bourgogne-Franche-Comté",
-    "tags": ["Mort suspecte", "Affaire de moeurs", "Personnalité publique", "Double meurtre"],
+    "tags": ["Injustice", "Erreur judiciaire", "Grâce présidentielle"],
     "VideoLink": ""
   },
   {
@@ -20,7 +20,7 @@
     "City": "Pont-de-Roide",
     "Department": "Doubs",
     "Region": "Bourgogne-Franche-Comté",
-    "tags": ["Police", "Siège", "Jules Bonnot", "Banditisme", "Automobile", "Braquage", "Début de la criminalité moderne", "Techniques policières", "Siège policier", "Fin de vie d'un criminel", "Mythe du criminel", "Début du 20ème siècle"],
+    "tags": ["Braquage", "Banditisme", "Années 1910", "Justice"],
     "VideoLink": ""
   },
   {
@@ -32,7 +32,7 @@
     "City": "Nancy",
     "Department": "Meurthe-et-Moselle",
     "Region": "Grand Est",
-    "tags": ["Injustice", "Journalisme", "Eugène Dieudonné", "Erreur judiciaire", "Anarchisme", "Bande à Bonnot", "Braquage", "Fiabilité des témoignages", "Peine de mort", "Grâce présidentielle", "Bagne", "Réhabilitation"],
+    "tags": ["Meurtre", "Guillotine", "Justice", "Exécution publique", "Années 1910"],
     "VideoLink": ""
   },
   {
@@ -44,7 +44,7 @@
     "City": "Nancy",
     "Department": "Meurthe-et-Moselle",
     "Region": "Grand Est",
-    "tags": ["Avortement", "Faiseuse d'anges", "Justice et avortement", "Évolution de la législation", "Début du 20e siècle", "Impact de la natalité sur la justice", "Procès d'avorteuses", "Réclusion"],
+    "tags": ["Résistance", "Collaboration",  "Épuration", "WW2", "Années 1910"],
     "VideoLink": ""
   },
   {
@@ -56,7 +56,7 @@
     "City": "Strasbourg",
     "Department": "Bas-Rhin",
     "Region": "Grand Est",
-    "tags": ["Hold-up", "Vol à main armée", "Vol de banque", "Gang des lyonnais", "Années 1970", "Police", "Braquage", "Absence de preuves", "Cambriolage", "Meurtre", "Exécution publique", "Preuves matérielles", "Années 1920", "Justice", "Reconstitution des faits"],
+    "tags": ["Résistance", "Déportation",  "Justice", "Traumatismes de guerre", "Années 1920"],
     "VideoLink": ""
   },
   {
@@ -68,7 +68,7 @@
     "City": "Longwy",
     "Department": "Meurthe-et-Moselle",
     "Region": "Grand Est",
-    "tags": ["Massacre", "Vol à main armée", "Meurtre", "Exécution publique", "Années 1920"],
+    "tags": ["Meurtre", "Affaires criminelles", "Justice", "Années 1940", "Malle sanglante"],
     "VideoLink": ""
   },
   {
@@ -80,7 +80,7 @@
     "City": "Strasbourg",
     "Department": "Bas-Rhin",
     "Region": "Grand Est",
-    "tags": ["Meurtre", "Enlèvement",  "Années 1920", "Justice", "Barbarie"],
+    "tags": ["Empoisonnement", "Couple", "Justice", "Années 1950"],
     "VideoLink": ""
   },
   {
@@ -92,7 +92,7 @@
     "City": "Nancy",
     "Department": "Meurthe-et-Moselle",
     "Region": "Grand Est",
-    "tags": ["Crime de guerre", "Justice", "Années 1920", "Peine de mort", "Héro de guerre", "Double meurtre"],
+    "tags": ["Meurtre", "Triangle amoureux", "Justice", "Années 1950"],
     "VideoLink": ""
   },
   {
@@ -104,7 +104,7 @@
     "City": "Strasbourg",
     "Department": "Bas-Rhin",
     "Region": "Grand Est",
-    "tags": ["Contrebande d'alcool", "Meurtre de gendarmes", "Tribunal correctionnel", "Conséquences de l'alcool", "Peine de travaux forcés à perpétuité", "Début du 20e siècle"],
+    "tags": ["Vol", "Meurtre", "Justice", "Années 1920"],
     "VideoLink": ""
   },
   {
@@ -116,7 +116,7 @@
     "City": "Strasbourg",
     "Department": "Bas-Rhin",
     "Region": "Grand Est",
-    "tags": ["Banditisme", "Vol à main armée", "Evasion", "Police", "Années 1920", "Meurtre de gendarme"],
+    "tags": ["Attentat politique",  "Services secrets", "Terrorisme", "Strasbourg", "Années 1950", "Justice"],
     "VideoLink": ""
   },
   {
@@ -128,7 +128,7 @@
     "City": "Strasbourg",
     "Department": "Bas-Rhin",
     "Region": "Grand Est",
-    "tags": ["Vol", "Meurtre", "Amants criminels", "Années 1920", "Justice"],
+    "tags": ["Braquage", "Années 1920", "Justice",  "Meurtre"],
     "VideoLink": ""
   },
   {
@@ -140,7 +140,7 @@
     "City": "Foug",
     "Department": "Meurthe-et-Moselle",
     "Region": "Grand Est",
-    "tags": ["Meurtre", "Vol", "Années 1930", "Justice"],
+    "tags": ["Meurtre", "Vol", "Justice", "Années 1930"],
     "VideoLink": ""
   },
   {
@@ -152,7 +152,7 @@
     "City": "Saint-Mihiel",
     "Department": "Meuse",
     "Region": "Grand Est",
-    "tags": ["Peine de mort", "Guillotine", "Exécution publique", "Années 1930", "Meurtre"],
+    "tags": ["Meurtre", "Guillotine", "Justice", "Exécution publique", "Années 1930"],
     "VideoLink": ""
   },
   {
@@ -164,7 +164,7 @@
     "City": "Nouillonpont",
     "Department": "Meuse",
     "Region": "Grand Est",
-    "tags": ["Peine de mort", "Guillotine", "Exécution publique", "Années 1930", "Meurtre", "Dernières paroles"],
+    "tags":["Meurtre", "Guillotine", "Justice", "Exécution publique", "Années 1930"],
     "VideoLink": ""
   },
   {
@@ -176,7 +176,7 @@
     "City": "Hannonville-sous-les-Côtes",
     "Department": "Meuse",
     "Region": "Grand Est",
-    "tags": ["Emprise", "Meurtre", "Années 1930", "Justice", "Affaire de moeurs"],
+    "tags": ["Emprise", "Couple", "Justice", "Années 1930"],
     "VideoLink": ""
   },
   {
@@ -188,7 +188,7 @@
     "City": "Épinal",
     "Department": "Vosges",
     "Region": "Grand Est",
-    "tags": ["Meurtre", "Peine de mort", "Exécution publique", "Années 1930", "Justice"],
+    "tags":["Meurtre",  "Justice",  "Années 1930"],
     "VideoLink": ""
   },
   {
@@ -200,7 +200,7 @@
     "City": "Strasbourg",
     "Department": "Bas-Rhin",
     "Region": "Grand Est",
-    "tags": ["Meurtre", "Vol", "Délinquance juvénile", "Années 1930", "Justice", "Peine de mort"],
+    "tags": ["Justice", "Délinquance juvénile", "Années 1930"],
     "VideoLink": ""
   },
   {
@@ -212,7 +212,7 @@
     "City": "Mulhouse",
     "Department": "Haut-Rhin",
     "Region": "Grand Est",
-    "tags": ["Meurtre", "Agression", "Pulsions", "Années 1930", "Justice", "Peine de mort", "Viol"],
+    "tags": ["Meurtre", "Justice", "Années 1930"],
     "VideoLink": ""
   },
   {
@@ -224,7 +224,7 @@
     "City": "Metz",
     "Department": "Moselle",
     "Region": "Grand Est",
-    "tags": ["Meurtre", "Justice", "Peine de mort", "Grâce présidentielle", "Lenteur de la justice", "Années 1940", "Complicité"],
+    "tags": ["Meurtre", "Justice", "Peine de mort", "Grâce présidentielle",  "Années 1940"],
     "VideoLink": ""
   },
   {
@@ -236,7 +236,7 @@
     "City": "Metz",
     "Department": "Moselle",
     "Region": "Grand Est",
-    "tags": ["Collaboration", "Résistance", "Milice", "Épuration", "Justice d'après-guerre", "Tribunal militaire", "Seconde Guerre mondiale", "Règlements de comptes"],
+    "tags": ["Collaboration", "Résistance", "Milice", "Épuration", "WW2", "Années 1950"],
     "VideoLink": ""
   },
   {
@@ -248,7 +248,7 @@
     "City": "Metz",
     "Department": "Moselle",
     "Region": "Grand Est",
-    "tags": ["Résistance", "Déportation", "Criminalité", "Réinsertion", "Justice", "Traumatismes de guerre", "Années 1940-1980", "Réinsertion difficile"],
+    "tags": ["Résistance", "Déportation", "Justice", "Traumatismes de guerre", "Années 1940"],
     "VideoLink": ""
   },
   {
@@ -260,7 +260,7 @@
     "City": "Strasbourg",
     "Department": "Bas-Rhin",
     "Region": "Grand Est",
-    "tags": ["Meurtre", "Affaire criminelle", "Antiquaire", "Homosexualité", "Justice", "Faits divers", "Années 1940", "Malle sanglante", "Médias et justice"],
+    "tags": ["Meurtre", "Affaires criminelles", "Justice", "Années 1940", "Malle sanglante"],
     "VideoLink": ""
   },
   {
@@ -272,7 +272,7 @@
     "City": "Metz",
     "Department": "Moselle",
     "Region": "Grand Est",
-    "tags": ["Déportation", "Seconde Guerre Mondiale", "Crimes de guerre", "Tribunal Militaire", "Justice d'après-guerre", "Conditions de détention inhumaines", "Responsabilité individuelle"],
+    "tags": ["Déportation", "WW2", "Crimes de guerre"],
     "VideoLink": ""
   },
   {
@@ -284,7 +284,7 @@
     "City": "Épinal",
     "Department": "Vosges",
     "Region": "Grand Est",
-    "tags": ["Empoisonnement", "Meurtre", "Années 1950", "Justice", "Affaire de famille"],
+    "tags": ["Empoisonnement", "Couple", "Justice", "Années 1950"],
     "VideoLink": ""
   },
   {
@@ -296,7 +296,7 @@
     "City": "Metz",
     "Department": "Moselle",
     "Region": "Grand Est",
-    "tags": ["Camp de concentration", "Struthof", "Expériences médicales nazies", "Crimes de guerre", "Justice après-guerre", "Seconde guerre mondiale", "Mémoire"],
+    "tags": ["Camp de concentration", "Crimes de guerre", "WW2", "Années 1950"],
     "VideoLink": ""
   },
   {
@@ -308,7 +308,7 @@
     "City": "Vesoul",
     "Department": "Haute-Saône",
     "Region": "Franche-Comté",
-    "tags": ["Meurtre", "Triangle amoureux", "Complicité", "Années 1950", "Manipulation", "Justice", "Influence du contexte social"],
+    "tags": ["Meurtre", "Triangle amoureux", "Justice", "Années 1950"],
     "VideoLink": ""
   },
   {
@@ -320,7 +320,7 @@
     "City": "Uruffe",
     "Department": "Meurthe-et-Moselle",
     "Region": "Grand Est",
-    "tags": ["Meurtre", "Curé", "Justice", "Faits divers", "Années 1950", "Secret de la confession", "Impact de la religion"],
+    "tags": ["Meurtre", "Curé", "Justice", "Années 1950"],
     "VideoLink": ""
   },
   {
@@ -332,7 +332,7 @@
     "City": "Strasbourg",
     "Department": "Bas-Rhin",
     "Region": "Alsace",
-    "tags": ["Attentat politique", "Guerre froide", "Services secrets", "Manipulation de l'opinion", "KGB", "Terrorisme", "Strasbourg", "Années 1950", "Justice"],
+    "tags": ["Attentat politique",  "Services secrets", "Terrorisme", "Strasbourg", "Années 1950", "Justice"],
     "VideoLink": ""
   },
   {
@@ -344,7 +344,7 @@
     "City": "Besançon",
     "Department": "Haute-Saône",
     "Region": "Franche-Comté",
-    "tags": ["Meurtre", "Peine de mort", "Exécution publique", "Années 1950", "Justice",  "Dernier condamné à mort" ],
+    "tags":["Meurtre", "Justice", "Peine de mort", "Années 1950"],
     "VideoLink": ""
   },
   {
@@ -356,7 +356,7 @@
     "City": "Pompey",
     "Department": "Meurthe-et-Moselle",
     "Region": "Lorraine",
-    "tags": ["Désertion", "Guerre d'Algérie", "Justice militaire", "Peine de mort", "Années 1950", "Objection de conscience"],
+    "tags": ["Guerre d'Algérie", "Justice militaire", "Peine de mort", "Années 1950"],
     "VideoLink": ""
   },
   {
@@ -368,7 +368,7 @@
     "City": "Montbéliard",
     "Department": "Doubs",
     "Region": "Bourgogne-Franche-Comté",
-    "tags": ["Enlèvement", "Rançon", "Affaire criminelle", "Années 1960", "Techniques d'enquête", "Profil psychologique", "Justice"],
+    "tags": ["Enlèvement",  "Affaires criminelles", "Années 1960", "Justice"],
     "VideoLink": ""
   },
   {
@@ -380,7 +380,7 @@
     "City": "Épinal",
     "Department": "Vosges",
     "Region": "Lorraine",
-    "tags": ["Délinquance juvénile", "Blousons dorés", "Cambriolage", "Années 1960", "Jeunesse dorée", "Tribunal correctionnel", "Révolte sociale", "Impact de l'éducation"],
+    "tags": ["Délinquance juvénile", "Cambriolage", "Années 1960", "Justice"],
     "VideoLink": ""
   },
   {
@@ -392,7 +392,7 @@
     "City": "Lutterbach",
     "Department": "Haut-Rhin",
     "Region": "Alsace",
-    "tags": ["Gang de cambrioleurs", "Vol de coffres-forts", "Crime organisé", "Années 1960", "Alsace", "Police", "Absence de preuves"],
+    "tags": ["Gang de cambrioleurs", "Vol", "Années 1960", "Police"],
     "VideoLink": ""
   },
   {
@@ -404,7 +404,7 @@
     "City": "Ronchamp",
     "Department": "Haute-Saône",
     "Region": "Bourgogne-Franche-Comté",
-    "tags": ["Tuerie", "Violence domestique", "Fusillade", "Café des sports", "Années 1960", "Conflit conjugal", "Drame de jalousie", "Justice"],
+    "tags": ["Tuerie", "Violence",  "Années 1960", "Justice"],
     "VideoLink": ""
   },
   {
@@ -416,19 +416,19 @@
     "City": "Marsal",
     "Department": "Moselle",
     "Region": "Grand Est",
-    "tags": ["Disparition d'enfants", "Mage de Marsal", "Affaire criminelle", "Secte", "Mysticisme", "Croyances religieuses", "Justice", "Années 1960"],
+    "tags": ["Tueur en série", "Non résolus", "Années 1970", "Années 1980", "Justice"],
     "VideoLink": ""
   },
   {
     "id": 36,
     "Title": "Double parricide de Champigneulles : un jeune garçon si poli au tribunal",
-    "Date": "",
+    "Date": "1967",
     "Description": "Le regard calme, le visage lisse, l’allure un peu voûtée mais franche, impeccable dans son strict complet anthracite, André n’a rien d’un monstrueux criminel. Bien au contraire ! Lionel Raux de l’Est Républicain parle d’un homme « d’un commerce toujours agréable, attentionné avec sa fiancée qu’il semblait adorer ». Oui ce jeune homme tranquille et amoureux « n’a rien de ces mauvais garçons dont les bonnes gens disent : « il tuerait père et mère’ ». Et pourtant, tuer père et mère, c'est pour cela qu'il est devant le tribunal.",
     "PodcastLink": "2024/02/02/double-parricide-de-champigneulles-un-jeune-garcon-si-poli-au-tribunal",
     "City": "Champigneulles",
     "Department": "Meurthe-et-Moselle",
     "Region": "Grand Est",
-    "tags": ["Parricide", "Mythomanie", "Affabula", "Hold-up", "Vol à main armée", "Vol de banque", "Gang des lyonnais", "Années 1970", "Police", "Braquage", "Absence de preuves", "Double meurtre", "Années 1960", "Justice", "Profil psychologique"],
+    "tags": ["Parricide", "Braquage",  "Années 1970", "Police", "Meurtre", "Justice"],
     "VideoLink": ""
   },
   {
@@ -440,7 +440,7 @@
     "City": "Strasbourg",
     "Department": "Bas-Rhin",
     "Region": "Alsace",
-    "tags": ["Hold-up", "Vol à main armée", "Braquage", "Années 1970", "Police", "Vol de banque"],
+    "tags": ["Braquage",  "Années 1970", "Police",  "Justice"],
     "VideoLink": ""
   },
   {
@@ -452,7 +452,7 @@
     "City": "Strasbourg",
     "Department": "Bas-Rhin",
     "Region": "Alsace",
-    "tags": ["Cambriolage", "Vol de banque", "Crime organisé", "Failles de sécurité", "Police française", "Années 1970", "Vol record", "Absence de preuves", "Service d'action civique"],
+    "tags": ["Cambriolage", "Vol de banque",  "Années 1970",  "Police"],
     "VideoLink": ""
   },
   {
@@ -464,7 +464,7 @@
     "City": "Troyes",
     "Department": "Aube",
     "Region": "Grand Est",
-    "tags": ["Prise d'otage", "Mutinerie", "Années 1970", "Justice", "Peine de mort", "Robert Badinter"],
+    "tags": ["Double meurtre", "Braquage", "Justice", "Années 1970"],
     "VideoLink": ""
   },
   {
@@ -476,19 +476,19 @@
     "City": "Traves",
     "Department": "Haute-Saône",
     "Region": "Bourgogne-Franche-Comté",
-    "tags": ["Ancien SS", "Criminel de guerre", "Seconde Guerre Mondiale", "Mythe du criminel", "Justice", "Manipulation de l'information", "Années 1970"],
+    "tags": ["Criminel de guerre", "WW2", "Justice", "Années 1970"],
     "VideoLink": ""
   },
   {
     "id": 41,
     "Title": "Procès de Patrick Henry : la plaidoirie de Robert Badinter qui va tout changer",
-    "Date": "",
+    "Date": "1976",
     "Description": "La famille du petit Philippe Bertrand a attendu 18 jours. 18 jours d'espoir et d'angoisse avant la terrible issue. L'avocat champenois de l'accusé , Me Robert Bocquillon, sait parfaitement que son client a peu de chance de sauver sa tête. Alors, il va faire appel à un éminent confrère.",
     "PodcastLink": "2024/04/12/proces-de-patrick-henry-la-plaidoirie-de-robert-badinter-qui-va-tout-changer",
     "City": "Troyes",
     "Department": "Aube",
     "Region": "Grand Est",
-    "tags": ["Meurtre d'enfant", "Peine de mort", "Robert Badinter", "Plaidoyer abolitionniste", "Justice", "Années 1970", "Impact médiatique"],
+    "tags": ["Meurtre d'enfant", "Peine de mort", "Justice", "Années 1970"],
     "VideoLink": ""
   },
   {
@@ -500,7 +500,7 @@
     "City": "Sercoeur",
     "Department": "Vosges",
     "Region": "Grand Est",
-    "tags": ["Violence en réunion", "Agression", "Meurtre", "Bandes de jeunes", "Bal populaire", "Conséquences de l'alcool", "Années 1970", "Tribunal correctionnel", "Justice"],
+    "tags": ["Violence", "Agression", "Meurtre",  "Années 1970", "Justice"],
     "VideoLink": ""
   },
   {
@@ -512,7 +512,7 @@
     "City": "Mulhouse",
     "Department": "Haut-Rhin",
     "Region": "Grand Est",
-    "tags": ["Terrorisme", "Enlèvement", "Prise d'otages", "Fraction armée rouge", "Années 1970", "Négociations avec des terroristes", "Suicide collectif"],
+    "tags": ["Terrorisme", "Enlèvement",  "Années 1970"],
     "VideoLink": ""
   },
   {
@@ -524,7 +524,7 @@
     "City": "Muzeray",
     "Department": "Meuse",
     "Region": "Grand Est",
-    "tags": ["Meurtre", "Affaire de notaires", "Années 1980",  "Justice", "Escroquerie", "Rivalité professionnelle"],
+    "tags": ["Meurtre", "Justice", "Années 1980"],
     "VideoLink": ""
   },
   {
@@ -536,7 +536,7 @@
     "City": "Vendenheim",
     "Department": "Bas-Rhin",
     "Region": "Grand Est",
-    "tags": ["Tueur en série", "Meurtres non résolus", "Forêt de Vendenheim", "Enquête criminelle", "Années 1970-1980", "Justice", "Lieux hantés"],
+    "tags": ["Tueur en série", "Non résolus", "Années 1970", "Années 1980", "Justice"],
     "VideoLink": ""
   },
   {
@@ -548,7 +548,7 @@
     "City": "Briey",
     "Department": "Meurthe-et-Moselle",
     "Region": "Grand Est",
-    "tags": ["Double meurtre", "Convoyeurs de fonds", "Braquage", "Justice", "Années 1970", "Tribunal correctionnel", "Coaction"],
+    "tags": ["Double meurtre", "Braquage", "Justice", "Années 1970"],
     "VideoLink": ""
   },
   {
@@ -560,7 +560,7 @@
     "City": "Belfort",
     "Department": "Territoire de Belfort",
     "Region": "Bourgogne-Franche-Comté",
-    "tags": ["Meurtres", "Vols", "Evasion", "Multi-récidiviste", "Années 1980", "Justice"],
+    "tags": ["Meurtres", "Vols", "Justice", "Années 1980"],
     "VideoLink": ""
   },
   {
@@ -572,7 +572,7 @@
     "City": "Montigny-lès-Metz",
     "Department": "Moselle",
     "Region": "Grand Est",
-    "tags": ["Meurtre d'enfant", "Erreur judiciaire", "Procès", "Années 1980", "Justice", "Francis Heaulme"],
+    "tags": ["Erreur judiciaire", "Justice", "Francis Heaulme", "Années 1980", "Années 1990", "Années 2000"],
     "VideoLink": ""
   },
   {
@@ -584,7 +584,7 @@
     "City": "Belfort",
     "Department": "Territoire de Belfort",
     "Region": "Franche-Comté",
-    "tags": ["Incendie criminel", "Pyromanie", "Victimes", "Enquête policière", "Minitel", "Années 1980", "Justice", "Responsabilité individuelle"],
+    "tags": ["Incendie criminel", "Pyromanie", "Années 1980", "Justice"],
     "VideoLink": ""
   },
   {
@@ -596,31 +596,31 @@
     "City": "Luxiol",
     "Department": "Doubs",
     "Region": "Bourgogne-Franche-Comté",
-    "tags": ["Tuerie", "Folie meurtrière", "Meurtre", "Années 1980", "Justice", "Schizophrénie", "Non-lieu"],
+    "tags": ["Tuerie", "Folie meurtrière", "Années 1980", "Justice"],
     "VideoLink": ""
   },
   {
     "id": 51,
     "Title": "Francis Heaulme, l'itinéraire du \"routard du crime\"",
-    "Date": "",
+    "Date": "1992",
     "Description": "Tout a commencé dans un bois de Meurthe-et-Moselle. Il fait du stop à Pont-à-Mousson. Avec le conducteur, sa route croise celle de Lyonnelle Gineste qui, elle aussi, fait du stop. La suite est trop bien connue.\nDurant cinq longues années, il agit en toute impunité, semant sur son passage corps et désolation.",
     "PodcastLink": "2024/09/20/francis-heaulme-l-itineraire-du-routard-du-crime",
     "City": "Pont-à-Mousson",
     "Department": "Meurthe-et-Moselle",
     "Region": "Grand Est",
-    "tags": ["Francis Heaulme", "Tueur en série", "Profil psychologique", "Enquête criminelle", "Itinéraire du crime", "Psychiatrie légale", "Années 1980 et 1990", "Déficience intellectuelle", "Violence"],
+    "tags": ["Francis Heaulme", "Tueur en série", "Années 1980", "Années 1990", "Violence"],
     "VideoLink": ""
   },
   {
     "id": 52,
     "Title": "A Besançon, il revient faire un carnage dans son ancienne usine en 1992",
-    "Date": "",
+    "Date": "1992",
     "Description": "C’est l’état de choc, rue Trépillot à Besançon. Alors que se poursuit le ballet des ambulances et des véhicules de police, des salariés de l’usine Bourgeois vont et viennent, hébétés, hagards, effondrés. D’autres employés de cette grosse entreprise de découpage et d’outillage de précision, la gorge nouée ou en pleurs, racontent dans la confusion, des bribes du drame. « Il tirait sur tout ce qui bougeait, j’ai eu juste le temps de me plaquer au sol derrière ma machine. »",
     "PodcastLink": "2024/10/04/a-besancon-il-revient-faire-un-carnage-dans-son-ancienne-usine-en-1992",
     "City": "Besançon",
     "Department": "Doubs",
     "Region": "Bourgogne-Franche-Comté",
-    "tags": ["Tuerie", "Meurtre",  "Années 1990", "Justice", "Démence", "Licenciement", "Déséquilibre mental"],
+    "tags": ["Tuerie", "Violence", "Années 1990", "Justice"],
     "VideoLink": ""
   },
   {
@@ -632,19 +632,19 @@
     "City": "Metz",
     "Department": "Moselle",
     "Region": "Grand Est",
-    "tags": ["Viol", "Meurtre d'enfant", "Années 1990", "Justice"],
+    "tags": ["Meurtre d'enfant", "Viol", "Justice", "Années 1990"],
     "VideoLink": ""
   },
   {
     "id": 54,
     "Title": "Christian Didier, le Vosgien qui a tué René Bousquet",
-    "Date": "",
+    "Date": "1993",
     "Description": "Christian Didier raconte tranquillement son meurtre à la presse, que lui-même a invitée une heure à peine après avoir assassiné l’ancien secrétaire général de la police de Vichy, âgé de 84 ans. Le visage exalté, il évoque la scène avec complaisance.\nIl tente aussi d’expliquer son geste. « Je vais me constituer prisonnier et je vais prendre dix ans de prison. »",
     "PodcastLink": "2024/11/01/christian-didier-le-vosgien-qui-a-tue-rene-bousquet",
     "City": "Saint-Dié",
     "Department": "Vosges",
     "Region": "Grand Est",
-    "tags": ["Meurtre", "Personnalité publique", "Années 1990", "Justice", "Extravagance", "Crimes contre l'humanité"],
+    "tags": ["Meurtre", "Justice", "Années 1990"],
     "VideoLink": ""
   }
 ]

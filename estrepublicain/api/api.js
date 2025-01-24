@@ -157,7 +157,7 @@ app.get('/related/:podcastId/:nbPodcast', function (req, res) {
 // Endpoint that sends the videos of the same department of a given video
 app.get('/department/:videoId', function (req, res) {
     const videoId = parseInt(req.params.videoId, 10);
-    const departmentVideos = {};
+    const departmentVideos = [];
 
     try {
         // Get videos.json
@@ -187,16 +187,16 @@ app.get('/department/:videoId', function (req, res) {
         // Find the videos of the same department
         videos.forEach(v => {
             if (v.Department === department && v.id !== videoId) {
-                departmentVideos[v.id] = v;
+                departmentVideos.push(v);
             }
         });
 
         // Check if any videos match the department
-        if (Object.keys(departmentVideos).length === 0) {
+        if (departmentVideos.length === 0) {
             return res.status(404).json({ error: 'No videos found for this department' });
         }
-
-        // Send it as a JSON object
+        console.log(departmentVideos);
+        // Send it as a JSON array
         res.json({ videos: departmentVideos });
     } catch (error) {
         res.status(500).json({ error: 'Failed to load videos' });
