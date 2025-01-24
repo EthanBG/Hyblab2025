@@ -33,6 +33,34 @@ app.get('/videos', function (req, res) {
     }
 });
 
+// Endpoint that sends the video corresponding to its ID
+app.get('/video/:id', function (req, res) {
+    const videoId = parseInt(req.params.id, 10);
+
+    try {
+        // Get videos.json
+        const videos = require('../public/data/videos.json');
+
+        // Check if videos object is empty
+        if (!videos || videos.length === 0) {
+            return res.status(404).json({ error: 'No videos available' });
+        }
+
+        // Find the video by ID
+        const video = videos.find(v => v.id === videoId);
+
+        // Check if the video exists
+        if (!video) {
+            return res.status(404).json({ error: 'Video not found' });
+        }
+
+        // Send the video as a JSON object
+        res.json({ video });
+    } catch (error) {
+        res.status(500).json({ error: 'Failed to load video', details: error.message });
+    }
+});
+
 // Endpoint that sends the video corresponding to a category
 app.get('/videos/:category', function (req, res) {
     let videos;
@@ -50,7 +78,6 @@ app.get('/videos/:category', function (req, res) {
 
         // Filter videos by category
         for (let videoId in videos) {
-            console.log(videoId);
             if (videos[videoId].tags.includes(category)) {
                 filteredVideos[videoId] = videos[videoId];
             }
@@ -72,7 +99,6 @@ app.get('/related/:podcastId/:nbPodcast', function (req, res) {
     let podcasts;
     let podcastId = parseInt(req.params.podcastId, 10);
     let nbPodcast = parseInt(req.params.nbPodcast, 10);
-    console.log(podcastId);
     let relatedPodcasts = [];
     let tags = [];
 
@@ -119,8 +145,6 @@ app.get('/related/:podcastId/:nbPodcast', function (req, res) {
 
         // Get the top related podcasts
         relatedPodcasts = relatedPodcasts.slice(0, nbPodcast);
-
-        console.log(relatedPodcasts);
 
         // Send the related podcasts and their common tags as a JSON array
         res.json({ relatedPodcasts });
